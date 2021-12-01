@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleRecyclerViews</string>
+
+    <string name="total_movies">%1$d movies</string>
+</resources>
